@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirliboyev-uz
+- 👋 Hi, I’m Umurzak Sirliboyev
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, SpringBoot
 - 💞️ I’m looking to collaborate on Java Backend developer
