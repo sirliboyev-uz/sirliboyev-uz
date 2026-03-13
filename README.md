@@ -1,6 +1,6 @@
 # Hey, I'm Umurzak 👋
 
-**AI Agent Orchestration Engineer** at [ABS VISION AI](https://github.com/ABS-VISION-AI)
+**AI Agent Orchestration Engineer**
 Building intelligent multi-agent systems and orchestration frameworks from Tashkent, Uzbekistan.
 
 ---
