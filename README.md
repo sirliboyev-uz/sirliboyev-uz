@@ -23,6 +23,10 @@ Tools            Claude Code · Cursor · Windsurf
 Other            C# · PHP · PostgreSQL · MongoDB
 ```
 
+### Skills
+
+`Agent Orchestration` `RAG (Retrieval-Augmented Generation)` `MCP Servers` `Multi-Agent Systems` `Tool-Use & Function Calling` `LLM Integration` `Prompt Engineering` `Vector Databases` `Conversational AI` `Computer Vision` `Voice AI (STT/TTS)` `API Design` `Bot Development`
+
 ### Featured Projects
 
 | Project | Description |
