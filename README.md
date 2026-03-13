@@ -5,12 +5,14 @@ Building intelligent multi-agent systems and orchestration frameworks from Tashk
 
 ---
 
-### What I Do
+### What I Actually Do
 
-- Architect and build **AI agent orchestration** systems
-- Develop **MCP servers** for seamless tool integration
-- Create **computer vision** and recognition pipelines
-- Build **full-stack applications** with modern frameworks
+- 🤖 Tell AI agents what to do, then watch them argue with each other
+- 🔌 Build MCP servers so my agents can order pizza *(and call APIs)*
+- 👁️ Teach computers to see things — they still can't find the bug tho
+- 🏗️ "Full-stack developer" = I prompt on both frontend AND backend
+- 🧠 Spend 3 hours on a prompt to save 5 minutes of coding
+- 🔥 Break production, blame the AI, fix it with a better prompt
 
 ### Tech Stack
 
