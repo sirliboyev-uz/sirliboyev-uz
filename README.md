@@ -14,15 +14,16 @@ Building intelligent multi-agent systems and orchestration frameworks from Tashk
 
 ### Tech Stack
 
-```
-IDE              Claude Code · Cursor · Windsurf
-Language         Prompts
-Framework        Vibes
-Testing          "it works on my machine"
-Deployment       pray & push
-Documentation    the code explains itself
-Debug Strategy   ask Claude again but angrier
-```
+| | | |
+|---|---|---|
+| 🧠 **Language** | Prompts | *english is the new python* |
+| 🛋️ **Framework** | Vibes | *if it feels right, ship it* |
+| 🔧 **IDE** | Claude Code · Cursor | *I don't write code, I negotiate with AI* |
+| 🧪 **Testing** | "it works on my machine" | *and that's enough for me* |
+| 🚀 **Deployment** | pray & `git push` | *CI/CD = Claude Is my Co-Developer* |
+| 📖 **Docs** | ❌ | *the code explains itself (it doesn't)* |
+| 🐛 **Debugging** | ask Claude again but angrier | *caps lock increases accuracy by 40%* |
+| 📦 **Dependencies** | mass `npm install` and hope | *node_modules heavier than my future* |
 
 ### What I Build for Agents
 
