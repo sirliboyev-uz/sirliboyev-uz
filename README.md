@@ -19,7 +19,7 @@ AI / ML          Python · LangChain · OpenAI · Anthropic · Computer Vision
 Backend          Java · Spring Boot · Django · FastAPI · Node.js
 Frontend         TypeScript · React · Next.js
 Infrastructure   Docker · MCP Protocol · Agent Frameworks
-Tools            Claude Code · Cursor · Windsurf · v0
+Tools            Claude Code · Cursor · Windsurf
 Other            C# · PHP · PostgreSQL · MongoDB
 ```
 
