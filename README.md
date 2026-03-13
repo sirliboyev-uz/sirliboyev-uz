@@ -15,12 +15,13 @@ Building intelligent multi-agent systems and orchestration frameworks from Tashk
 ### Tech Stack
 
 ```
-AI / ML          Python · LangChain · OpenAI · Anthropic · Computer Vision
-Backend          Java · Spring Boot · Django · FastAPI · Node.js
-Frontend         TypeScript · React · Next.js
-Infrastructure   Docker · MCP Protocol · Agent Frameworks
-Tools            Claude Code · Cursor · Windsurf
-Other            C# · PHP · PostgreSQL · MongoDB
+IDE              Claude Code · Cursor · Windsurf
+Language         Prompts
+Framework        Vibes
+Testing          "it works on my machine"
+Deployment       pray & push
+Documentation    the code explains itself
+Debug Strategy   ask Claude again but angrier
 ```
 
 ### What I Build for Agents
