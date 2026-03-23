@@ -35,12 +35,12 @@ Building intelligent multi-agent systems and orchestration frameworks from Tashk
 
 | Project | Description |
 |---------|-------------|
-| [**qanotai**](https://github.com/sirliboyev-uz/qanotai) | AI agent orchestration framework |
-| [**payme-mcp**](https://github.com/sirliboyev-uz/payme-mcp) | MCP server for Payme payment integration |
-| [**absmarket-mcp**](https://github.com/sirliboyev-uz/absmarket-mcp) | MCP server for ABS Market |
-| [**faceguard**](https://github.com/sirliboyev-uz/faceguard) | Face recognition security system |
+| [**Qanot AI**](https://github.com/QANOT/qanot) | AI agent framework for Telegram — Claude/GPT/Gemini, RAG, voice, plugins, multi-agent delegation. `pip install qanot` |
+| [**payme-mcp**](https://github.com/sirliboyev-uz/payme-mcp) | MCP server for Payme payment gateway integration |
+| [**absmarket-mcp**](https://github.com/sirliboyev-uz/absmarket-mcp) | MCP server for ABS Market platform |
+| [**faceguard**](https://github.com/sirliboyev-uz/faceguard) | Face recognition security system (Java + Spring Boot) |
+| [**web-ar**](https://github.com/sirliboyev-uz/web-ar-frontend) | Web-based augmented reality app |
 | [**ai-telegram-agent**](https://github.com/sirliboyev-uz/ai-telegram-agent) | AI-powered Telegram bot agent |
-| [**web-ar-frontend**](https://github.com/sirliboyev-uz/web-ar-frontend) | Web-based augmented reality app |
 
 ### GitHub Stats
 
