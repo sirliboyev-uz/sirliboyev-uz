@@ -1,7 +1,7 @@
 # Hey, I'm Umurzak 👋
 
 **AI Agent Orchestration Engineer**
-Building intelligent multi-agent systems and orchestration frameworks from Tashkent, Uzbekistan.
+Building intelligent multi-agent systems and orchestration frameworks :)
 
 ---
 
